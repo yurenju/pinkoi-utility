@@ -4,7 +4,7 @@
 
 ![建立空白專案](http://yurenju.github.io/pinkoi-utility/01-create-blank-project.png)
 
-按下空白專案，到這個連結，選取所有的程式碼並且複製貼上到剛剛這個 google app script 專案，按檔案 -> 儲存之後，把專案命名成 Pinkoi Utility。
+按下空白專案，到這個[連結](https://raw.githubusercontent.com/yurenju/pinkoi-utility/master/Code.gs)，選取所有的程式碼並且複製貼上到剛剛這個 google app script 專案，按檔案 -> 儲存之後，把專案命名成 Pinkoi Utility。
 
 就快完成了！按下發佈 -> 以外部程式模式進行測試，按下選取文件
 
